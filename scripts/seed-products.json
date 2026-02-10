@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Advanced Snail 96 Mucin Power Essence",
+    "name_ko": "어드밴스드 달팽이 96 뮤신 파워 에센스",
+    "brand": "COSRX",
+    "category": "serum",
+    "ingredients": {
+      "primary": ["Snail Secretion Filtrate", "Hyaluronic Acid"],
+      "full_list": ["Snail Secretion Filtrate (96.3%)", "Betaine", "Butylene Glycol", "1,2-Hexanediol", "Sodium Polyacrylate", "Phenoxyethanol", "Sodium Hyaluronate", "Allantoin", "Ethyl Hexanediol", "Carbomer", "Panthenol", "Arginine"]
+    },
+    "price_usd": 15.99,
+    "price_krw": 21000,
+    "rating": 4.8,
+    "review_count": 12543,
+    "image_url": "https://images.unsplash.com/photo-1556228852-80a81b8b083c?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/cosrx-snail",
+      "yesstyle": "https://ystyle.co/cosrx-snail"
+    },
+    "description": {
+      "en": "Lightweight essence with 96.3% snail mucin for hydration, repair, and skin regeneration. Perfect for dehydrated and aging skin.",
+      "ko": "96.3% 달팽이 점액 여과물 함유로 수분 공급, 피부 재생 및 탄력 개선"
+    }
+  },
+  {
+    "name": "Water Sleeping Mask",
+    "name_ko": "워터 슬리핑 마스크",
+    "brand": "Laneige",
+    "category": "moisturizer",
+    "ingredients": {
+      "primary": ["Hyaluronic Acid", "Beta-Glucan", "Trehalose"],
+      "full_list": ["Water", "Glycerin", "Hyaluronic Acid", "Beta-Glucan", "Trehalose", "Squalane"]
+    },
+    "price_usd": 32.00,
+    "price_krw": 42000,
+    "rating": 4.6,
+    "review_count": 8234,
+    "image_url": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/laneige-water"
+    },
+    "description": {
+      "en": "Overnight hydrating mask with Moisture Wrap™ technology. Provides 8-hour hydration while you sleep.",
+      "ko": "모이스처랩™ 기술로 밤사이 8시간 수분 공급하는 슬리핑 마스크"
+    }
+  },
+  {
+    "name": "The Vitamin C 23 Serum",
+    "name_ko": "비타민 C 23 세럼",
+    "brand": "By Wishtrend",
+    "category": "serum",
+    "ingredients": {
+      "primary": ["Vitamin C", "Vitamin E"],
+      "full_list": ["Ascorbic Acid 23%", "Tocopherol", "Sodium Hyaluronate"]
+    },
+    "price_usd": 22.00,
+    "price_krw": 29000,
+    "rating": 4.7,
+    "review_count": 5621,
+    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400",
+    "affiliate_links": {
+      "yesstyle": "https://ystyle.co/wishtrend-vitc"
+    },
+    "description": {
+      "en": "Pure 23% Vitamin C serum for brightening dark spots and boosting radiance. With Vitamin E for antioxidant protection.",
+      "ko": "순수 비타민 C 23% 함유로 다크 스팟 개선 및 피부 광채 부여"
+    }
+  },
+  {
+    "name": "BHA Blackhead Power Liquid",
+    "name_ko": "BHA 블랙헤드 파워 리퀴드",
+    "brand": "COSRX",
+    "category": "toner",
+    "ingredients": {
+      "primary": ["BHA (Salicylic Acid)", "Niacinamide"],
+      "full_list": ["Salix Alba (Willow) Bark Water", "Butylene Glycol", "Betaine Salicylate", "Niacinamide"]
+    },
+    "price_usd": 18.00,
+    "price_krw": 24000,
+    "rating": 4.7,
+    "review_count": 9876,
+    "image_url": "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/cosrx-bha"
+    },
+    "description": {
+      "en": "Gentle BHA exfoliant that penetrates pores to remove blackheads and prevent breakouts. Suitable for sensitive skin.",
+      "ko": "모공 속 각질과 블랙헤드를 제거하는 순한 BHA 각질 제거제"
+    }
+  },
+  {
+    "name": "Centella Calming Gel Cream",
+    "name_ko": "센텔라 진정 젤 크림",
+    "brand": "Purito",
+    "category": "moisturizer",
+    "ingredients": {
+      "primary": ["Centella Asiatica", "Madecassoside", "Panthenol"],
+      "full_list": ["Centella Asiatica Extract", "Madecassoside", "Panthenol", "Hyaluronic Acid"]
+    },
+    "price_usd": 16.50,
+    "price_krw": 22000,
+    "rating": 4.6,
+    "review_count": 4532,
+    "image_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=400",
+    "affiliate_links": {
+      "yesstyle": "https://ystyle.co/purito-centella"
+    },
+    "description": {
+      "en": "Lightweight gel cream with Centella Asiatica to soothe irritated, sensitive skin and strengthen barrier.",
+      "ko": "병풀 추출물로 민감하고 자극받은 피부를 진정하고 피부 장벽 강화"
+    }
+  },
+  {
+    "name": "Galactomyces 95 Tone Balancing Essence",
+    "name_ko": "갈락토미세스 95 톤 밸런싱 에센스",
+    "brand": "COSRX",
+    "category": "serum",
+    "ingredients": {
+      "primary": ["Galactomyces Ferment Filtrate", "Niacinamide"],
+      "full_list": ["Galactomyces Ferment Filtrate (95%)", "Niacinamide", "Sodium Hyaluronate", "Betaine", "Panthenol", "Allantoin"]
+    },
+    "price_usd": 17.99,
+    "price_krw": 23000,
+    "rating": 4.5,
+    "review_count": 6789,
+    "image_url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/cosrx-galactomyces",
+      "yesstyle": "https://ystyle.co/cosrx-galacto"
+    },
+    "description": {
+      "en": "95% Galactomyces essence for brightening, evening skin tone, and reducing dullness. Niacinamide-enriched formula.",
+      "ko": "95% 갈락토미세스 함유로 피부 톤 개선, 칙칙함 완화, 나이아신아마이드 강화 포뮬라"
+    }
+  },
+  {
+    "name": "Retinol Intense Reactivating Serum",
+    "name_ko": "레티놀 인텐스 리액티베이팅 세럼",
+    "brand": "Innisfree",
+    "category": "serum",
+    "ingredients": {
+      "primary": ["Retinol", "Green Tea", "Ceramide"],
+      "full_list": ["Retinol", "Camellia Sinensis Leaf Extract", "Ceramide NP", "Squalane", "Tocopherol"]
+    },
+    "price_usd": 28.00,
+    "price_krw": 36000,
+    "rating": 4.4,
+    "review_count": 3421,
+    "image_url": "https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/innisfree-retinol"
+    },
+    "description": {
+      "en": "Gentle retinol serum combined with green tea and ceramides to reduce fine lines while protecting sensitive skin.",
+      "ko": "녹차와 세라마이드를 결합한 순한 레티놀 세럼으로 잔주름 개선 및 민감 피부 보호"
+    }
+  },
+  {
+    "name": "Madagascar Centella Ampoule",
+    "name_ko": "마다가스카르 센텔라 앰플",
+    "brand": "Skin1004",
+    "category": "serum",
+    "ingredients": {
+      "primary": ["Centella Asiatica", "Madecassoside", "Asiaticoside"],
+      "full_list": ["Centella Asiatica Extract (100%)", "Madecassoside", "Asiaticoside", "Madecassic Acid", "Asiatic Acid"]
+    },
+    "price_usd": 19.00,
+    "price_krw": 25000,
+    "rating": 4.7,
+    "review_count": 7654,
+    "image_url": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/skin1004-centella",
+      "yesstyle": "https://ystyle.co/skin1004-centella"
+    },
+    "description": {
+      "en": "100% Centella Asiatica ampoule from Madagascar for calming redness, healing blemishes, and soothing sensitive skin.",
+      "ko": "마다가스카르산 센텔라 아시아티카 100% 앰플로 붉은기 진정 및 트러블 케어"
+    }
+  },
+  {
+    "name": "Low pH Good Morning Gel Cleanser",
+    "name_ko": "로우 pH 굿모닝 젤 클렌저",
+    "brand": "COSRX",
+    "category": "cleanser",
+    "ingredients": {
+      "primary": ["Tea Tree Oil", "BHA (Salicylic Acid)"],
+      "full_list": ["Cocamidopropyl Betaine", "Sodium Chloride", "Melaleuca Alternifolia (Tea Tree) Leaf Oil", "Betaine Salicylate", "Butylene Glycol", "Saccharomyces Ferment"]
+    },
+    "price_usd": 12.00,
+    "price_krw": 15000,
+    "rating": 4.5,
+    "review_count": 11234,
+    "image_url": "https://images.unsplash.com/photo-1556228841-a3c527ebefe5?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/cosrx-cleanser",
+      "yesstyle": "https://ystyle.co/cosrx-cleanser"
+    },
+    "description": {
+      "en": "Gentle low pH gel cleanser with tea tree and BHA for effective cleansing without stripping skin moisture. Ideal for oily and acne-prone skin.",
+      "ko": "티트리와 BHA 함유 저자극 약산성 젤 클렌저로 수분 손실 없는 세안"
+    }
+  },
+  {
+    "name": "AHA/BHA Clarifying Treatment Toner",
+    "name_ko": "AHA/BHA 클래리파잉 트리트먼트 토너",
+    "brand": "COSRX",
+    "category": "toner",
+    "ingredients": {
+      "primary": ["AHA (Glycolic Acid)", "BHA (Salicylic Acid)", "Niacinamide"],
+      "full_list": ["Mineral Water", "Salix Alba (Willow) Bark Water", "Pyrus Malus (Apple) Fruit Water", "Glycolic Acid", "Betaine Salicylate", "Niacinamide", "Allantoin"]
+    },
+    "price_usd": 14.50,
+    "price_krw": 19000,
+    "rating": 4.5,
+    "review_count": 8543,
+    "image_url": "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?w=400",
+    "affiliate_links": {
+      "amazon": "https://amzn.to/cosrx-aha-bha"
+    },
+    "description": {
+      "en": "Dual-action AHA/BHA toner that gently exfoliates, refines pores, and preps skin for better product absorption.",
+      "ko": "AHA/BHA 이중 작용 토너로 순한 각질 제거, 모공 케어, 다음 스텝 흡수력 향상"
+    }
+  }
+]

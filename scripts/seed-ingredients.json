@@ -1,0 +1,122 @@
+[
+  {
+    "name_en": "Hyaluronic Acid",
+    "name_ko": "히알루론산",
+    "name_ja": "ヒアルロン酸",
+    "name_zh": "透明质酸",
+    "description": {
+      "en": "A powerful humectant that can hold up to 1000x its weight in water, providing intense hydration and plumping effects",
+      "ko": "자체 무게의 1000배까지 수분을 보유할 수 있는 강력한 보습제로 깊은 수분 공급"
+    },
+    "benefits": ["hydration", "plumping", "anti-aging"],
+    "addresses_concerns": ["dehydration", "fine_lines", "dullness"],
+    "best_for_skin_types": ["all"],
+    "usage_frequency": "daily",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "Niacinamide",
+    "name_ko": "나이아신아마이드",
+    "name_ja": "ナイアシンアミド",
+    "name_zh": "烟酰胺",
+    "description": {
+      "en": "Vitamin B3 derivative that brightens skin, strengthens barrier, controls oil, and minimizes pores",
+      "ko": "비타민 B3 유도체로 피부 톤 개선, 장벽 강화, 유분 조절, 모공 축소"
+    },
+    "benefits": ["brightening", "barrier_repair", "pore_minimizing", "oil_control"],
+    "addresses_concerns": ["hyperpigmentation", "enlarged_pores", "oily_skin", "dullness"],
+    "best_for_skin_types": ["all"],
+    "usage_frequency": "daily",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "Centella Asiatica",
+    "name_ko": "병풀 (시카)",
+    "name_ja": "ツボクサ",
+    "name_zh": "积雪草",
+    "description": {
+      "en": "Korean healing herb that soothes inflammation, repairs damaged skin, and strengthens sensitive skin barrier",
+      "ko": "K-뷰티 대표 진정 성분으로 염증 완화, 손상 피부 회복, 민감 피부 장벽 강화"
+    },
+    "benefits": ["soothing", "healing", "barrier_repair"],
+    "addresses_concerns": ["redness_sensitivity", "acne_prone"],
+    "best_for_skin_types": ["sensitive", "combination", "acne-prone"],
+    "usage_frequency": "daily",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "Vitamin C",
+    "name_ko": "비타민C",
+    "name_ja": "ビタミンC",
+    "name_zh": "维生素C",
+    "description": {
+      "en": "Powerful antioxidant that brightens dark spots, evens skin tone, and provides environmental protection",
+      "ko": "강력한 항산화제로 다크 스팟 완화, 피부 톤 균일화, 환경으로부터 보호"
+    },
+    "benefits": ["brightening", "antioxidant", "collagen_boost"],
+    "addresses_concerns": ["hyperpigmentation", "dullness", "fine_lines"],
+    "best_for_skin_types": ["all"],
+    "usage_frequency": "daily",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "BHA (Salicylic Acid)",
+    "name_ko": "BHA (살리실산)",
+    "name_ja": "サリチル酸",
+    "name_zh": "水杨酸",
+    "description": {
+      "en": "Oil-soluble exfoliant that penetrates pores to remove buildup, control oil, and prevent breakouts",
+      "ko": "유용성 각질 제거제로 모공 속 각질 제거, 피지 조절, 여드름 예방"
+    },
+    "benefits": ["exfoliation", "pore_cleansing", "oil_control"],
+    "addresses_concerns": ["enlarged_pores", "acne_prone", "oily_skin"],
+    "best_for_skin_types": ["oily", "combination", "acne-prone"],
+    "usage_frequency": "2-3x per week",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "Retinol",
+    "name_ko": "레티놀",
+    "name_ja": "レチノール",
+    "name_zh": "视黄醇",
+    "description": {
+      "en": "Gold standard anti-aging ingredient that boosts collagen production, accelerates cell turnover, and reduces fine lines",
+      "ko": "콜라겐 생성 촉진, 세포 재생 가속화, 잔주름 완화의 안티에이징 골드 스탠다드 성분"
+    },
+    "benefits": ["anti-aging", "cell_turnover", "collagen_boost"],
+    "addresses_concerns": ["fine_lines", "hyperpigmentation", "dullness"],
+    "best_for_skin_types": ["normal", "dry", "combination"],
+    "usage_frequency": "2-3x per week",
+    "research_level": "strong"
+  },
+  {
+    "name_en": "Tea Tree Oil",
+    "name_ko": "티트리 오일",
+    "name_ja": "ティーツリーオイル",
+    "name_zh": "茶树油",
+    "description": {
+      "en": "Natural antibacterial and anti-inflammatory ingredient that fights acne-causing bacteria and reduces breakout inflammation",
+      "ko": "천연 항균 및 항염 성분으로 여드름균 억제 및 트러블 염증 완화"
+    },
+    "benefits": ["antibacterial", "anti-inflammatory", "oil_control"],
+    "addresses_concerns": ["acne_prone", "oily_skin"],
+    "best_for_skin_types": ["oily", "acne-prone"],
+    "usage_frequency": "daily",
+    "research_level": "moderate"
+  },
+  {
+    "name_en": "Ceramide",
+    "name_ko": "세라마이드",
+    "name_ja": "セラミド",
+    "name_zh": "神经酰胺",
+    "description": {
+      "en": "Essential lipid that strengthens the skin barrier, locks in moisture, and protects against environmental stressors",
+      "ko": "피부 장벽 강화, 수분 보호, 외부 자극으로부터 보호하는 필수 지질 성분"
+    },
+    "benefits": ["barrier_repair", "moisture_retention", "protection"],
+    "addresses_concerns": ["dehydration", "redness_sensitivity"],
+    "best_for_skin_types": ["dry", "sensitive", "all"],
+    "usage_frequency": "daily",
+    "research_level": "strong"
+  }
+]
